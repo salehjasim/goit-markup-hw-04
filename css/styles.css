@@ -160,7 +160,7 @@ ul {
   padding-top: 94px;
 }
 .section-white1 {
-  background-color: #F5F5F5;  
+  background-color: #FFFFFF;  
 }
 .list-items {
   margin-right: 30px;
@@ -197,7 +197,8 @@ ul {
 }
 .section.white2 {
   background-color: #F5F5F5;
-  flex-direction: column;  
+  flex-direction: column;
+  padding-bottom: 94px;
 } 
 .section.white2 img {
   margin-right: 30px;
